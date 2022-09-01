@@ -1,4 +1,4 @@
-1./* Write a C Program to find FACTORIAL of a number using functions with return value */
+2./* Write a C Program to find FACTORIAL of a number using functions with return value */
 
 #include<stdio.h>
 void main()
